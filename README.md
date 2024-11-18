@@ -15,18 +15,20 @@ Um projeto simples em Python para gerar arquivos PDF utilizando a biblioteca **F
 
 1. Clone o repositório ou baixe o script:
    ```bash
-   git clone https://github.com/<seu-repositorio>.git
-   cd <pasta-do-projeto>
+   git clone https://github.com/<seu-repositorio>.git](https://github.com/valentimdev/pdfGenerator
    ```
 
 2. Abra o script e edite a variável `content_health` para incluir o texto desejado.
 
 3. Execute o script:
    ```bash
-   python nome_do_script.py
+   python pdfGenerator.py
    ```
 
-4. Encontre o PDF gerado no caminho de saída especificado.
+4. Mude o nome do arquivo alterando essa string coloque o path para onde seu script esta(pdf_output_path_health = "/pdfGenerator/Teste.pdf")
+
+
+5.Encontre o PDF gerado no caminho de saída especificado.
 
 ## Personalizações
 
